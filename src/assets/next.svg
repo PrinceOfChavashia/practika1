@@ -1,0 +1,14 @@
+<svg width="95.000000" height="95.000000" viewBox="0 0 95 95" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs>
+		<clipPath id="clip381_267">
+			<rect id="Arrows / Chevron Right 1 - 24px" width="20.000000" height="20.000000" transform="translate(37.000000 38.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<path id="Mask" d="M32 28L62 28C64.7615 28 67 30.2383 67 33L67 63C67 65.7617 64.7615 68 62 68L32 68C29.2385 68 27 65.7617 27 63L27 33C27 30.2383 29.2385 28 32 28Z" fill="#FFFFFF" fill-opacity="0.850000" fill-rule="evenodd"/>
+	<mask id="mask381_266" mask-type="alpha" maskUnits="userSpaceOnUse" x="0.000000" y="0.000000" width="95.000000" height="95.000000">
+		<path id="Mask" d="M10 0L85 0C90.5228 0 95 4.47754 95 10L95 85C95 90.5225 90.5228 95 85 95L10 95C4.47717 95 0 90.5225 0 85L0 10C0 4.47754 4.47717 0 10 0Z" fill="#1C294D" fill-opacity="1.000000" fill-rule="evenodd"/>
+	</mask>
+	<g clip-path="url(#clip381_267)">
+		<path id="Icon" d="M43.9108 42.4111C44.2362 42.0859 44.7639 42.0859 45.0894 42.4111L50.0894 47.4111C50.4148 47.7363 50.4148 48.2637 50.0894 48.5898L45.0894 53.5898C44.7639 53.915 44.2362 53.915 43.9108 53.5898C43.5854 53.2637 43.5854 52.7363 43.9108 52.4111L48.3215 48L43.9108 43.5898C43.5854 43.2637 43.5854 42.7363 43.9108 42.4111Z" fill="#1C294D" fill-opacity="1.000000" fill-rule="evenodd"/>
+	</g>
+</svg>
